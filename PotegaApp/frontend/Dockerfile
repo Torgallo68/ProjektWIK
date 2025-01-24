@@ -14,4 +14,4 @@ COPY frontend/ .
 #RUN npm run build
 EXPOSE 3000
 # Uruchamianie serwera
-CMD ["sh", "-c", "npm install && npm start"]
+#CMD ["sh", "-c", "npm install && npm start"]
