@@ -40,3 +40,5 @@ Aplikacja została stworzona z myślą o moim realnym problemie - często nie mo
 ### Zastosowanie aplikacji
 
 Ta konstrukcja aplikacji jest wygodna, jeśli wykonuje się niektóre ćwiczenia znacznie częściej niż inne lub nie ma stałego planu treningowego. Dzięki aplikacji łatwo zauważyć, kiedy ostatni raz wykonywało się dane ćwiczenie.
+### Usterki
+Na mojej maszynie wszystko odpala się bez problemu, gdyby wystąpiły jakieś komplikacje, wątpliwości proszę o kontakt na mail uczelniany.
