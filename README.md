@@ -15,7 +15,7 @@ Aby uruchomić aplikację, należy:
 
 ## Działanie aplikacji
 
-Aplikacja została stworzona z myślą o moim realnym problemie - często nie mogę zapamiętać, ile serii i jakim obciążeniem ostatnio robiłem. 
+Aplikacja została stworzona z myślą o moim realnym problemie - często nie mogę zapamiętać, ile serii i jakim obciążeniem ostatnio ćwiczyłem. 
 
 ### Funkcje:
 
@@ -28,7 +28,11 @@ Aplikacja została stworzona z myślą o moim realnym problemie - często nie mo
    - Dzięki segregacji po dacie wiadomo, kiedy ostatni raz wykonywało się dane ćwiczenie.
    - Po kliknięciu w dane ćwiczenie, można dokonać edycji, a wtedy data się odświeży.
    - Ponowne kliknięcie strzałki powrotnej zapisze zmiany.
+3. **Usuwanie**:
+   - Jest też opcja usuwania, należy kliknąć na dane ćwiczenie by przejść w tryb edycji.
+   - Nastepnie należy kliknąć przycisk delete.
 
+   
 ### Zastosowanie aplikacji
 
 Ta konstrukcja aplikacji jest wygodna, jeśli wykonuje się niektóre ćwiczenia znacznie częściej niż inne lub nie ma stałego planu treningowego. Dzięki aplikacji łatwo zauważyć, kiedy ostatni raz wykonywało się dane ćwiczenie.
