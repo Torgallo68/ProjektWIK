@@ -24,7 +24,7 @@ Aplikacja została stworzona z myślą o moim realnym problemie - często nie mo
    - Aby to zrobić, należy nacisnąć czerwony przycisk z plusem w prawym dolnym rogu.
    - Po uzupełnieniu danych klikamy strzałkę powrotną w lewym górnym rogu, która zapisuje nowe ćwiczenie.
 
-2. **Segregacja po dacie**:
+2. **Edycja**:
    - Dzięki segregacji po dacie wiadomo, kiedy ostatni raz wykonywało się dane ćwiczenie.
    - Po kliknięciu w dane ćwiczenie, można dokonać edycji, a wtedy data się odświeży.
    - Ponowne kliknięcie strzałki powrotnej zapisze zmiany.
