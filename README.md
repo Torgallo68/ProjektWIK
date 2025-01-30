@@ -4,14 +4,18 @@
 
 Aby uruchomić aplikację, należy:
 
-1. Przejść do folderu `PotegaApp`, w którym znajduje się plik `docker-compose.yml`.
-2. Użyć komendy:
+1. Pobrać ją z repozytorium github, jako polecany sposób można zastosować:
+   ```bash
+   git clone https://github.com/Torgallo68/ProjektWIK.git
+   ```
+2. Przejść do folderu `PotegaApp`, w którym znajduje się plik `docker-compose.yml`.
+3. Użyć komendy:
 
    ```bash
    docker compose up --build
    ```
 
-3. Powinny zostać utworzone 3 kontenery, a na końcu frontend pokaże, że aplikację można zobaczyć w przeglądarce. Należy wybrać opcję `Local`.
+4. Powinny zostać utworzone 3 kontenery, a na końcu frontend pokaże, że aplikację można zobaczyć w przeglądarce. Należy wybrać opcję `Local`.
 
 ## Działanie aplikacji
 
